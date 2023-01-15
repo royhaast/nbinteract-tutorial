@@ -1,0 +1,10 @@
+name: visualization
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - nibabel
+  - matplotlib
+  - pandas
+  - plotly
+  - nilearn
